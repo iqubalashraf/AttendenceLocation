@@ -1,0 +1,1 @@
+apps/attendencelocation/MainActivity.class
